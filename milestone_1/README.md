@@ -11,7 +11,8 @@ extracted data from `pure-album-313018:tsunami_reading.telemetry_data` was sent 
 ![bucket.png](bucket.png)
 
 ## Cloud Function
-Created the Cloud Function. Its source code is this project (see com.example.ExportTableToCvs.java)
+Created the Cloud Function. Its source code is this project (see 
+[com.example.ExportTableToCvs.java](../src/main/java/com/example/ExtractTableToCsv.java))
 
 ![img_2.png](img_2.png)
 
